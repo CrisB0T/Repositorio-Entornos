@@ -1,17 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
-    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
-  <channel>
-    <title>Podcast de ejemplo</title>
-    <itunes:owner>
-        <itunes:email>ejemplo@example.com</itunes:email>
-    </itunes:owner>
-    <itunes:author>Cris</itunes:author>
-    <description>Como hacer un xml para podcast.</description>
-    <itunes:image href="https://www.example.com/jpg."/>
-    <language>es</language>
-    <link>https://www.example.com/ejemplo/</link>
-	
+
     <item>
       <title>10 mitos sobre los xml</title>
       <description>10 mitos que son mitos mitosos sobre los xml</description>
